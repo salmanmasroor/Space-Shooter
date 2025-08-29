@@ -67,5 +67,5 @@ Game_over() → Displays Game Over screen
 
 main() → Runs the game loop, input handling, collisions, scoring, and level progression
 
-![Car Image](images/car.png)
+![Car Image](Screenshot-1.png)
 
