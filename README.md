@@ -66,3 +66,6 @@ Start() → Initializes game window & title screen
 Game_over() → Displays Game Over screen
 
 main() → Runs the game loop, input handling, collisions, scoring, and level progression
+
+![Car Image](images/car.png)
+
